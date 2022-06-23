@@ -4,32 +4,30 @@
 
 This is a web site dedicated to presenting a portfolio of work to highlight different aspects of full stack development.
 
-There are 3 main areas in this portfolio.
-- About Me
- Which outlines a small introduction about me.
-- Work
- This is collection of work that i have done. The images are links that will redirect you to the work where you can evaluate them.
-The description under the header for each link describes the skills used in that work item.
-- Contact
- Various mediums in which you can contact me
+There are a few criteria that the user can choose from.
+- Choosing the password size. The size of the password can be between 8 and 128 characters. 
+ The user input is validated to make sure that it is only a number between these values.
+- Character types
+ There are 4 character types the user cab choose from. uppercase, lowercase, numeric and special characters
+ The user must choose at least 1 character type
+- Result
+ The program will take all the users choices and will print out the result in the main text area
 <br>
-
-### Lessons Learnt
-This site has used some advanced concepts regarding CSS, it has taught me a lot about placement and the small detail required to style items and provide functionality to the page.
 
 ## Table of Contents
 
 - [Deployed Link](#Link)
 - [Screenshot](#Screenshot)
 ---
+
 ## Link
 
 The link to the deployed website of the assignment is <br>
-[https://jkoufalas.github.io/Professional-Portfolio/index.html](https://jkoufalas.github.io/Professional-Portfolio/index.html)
+[https://jkoufalas.github.io/Password-Generator/index.html](https://jkoufalas.github.io/Password-Generator/index.html)
 
 ---
 ## Screenshot
 
 This image provides a sample of the completed website.
 
-![This professional portfolio holds link to all my work that demonstrates my skills.](./assets/Images/jkoufalas.github.io.jpg)
+![This is a password generator where you can choose your own criteria to include in your password.](./assets/Images/jkoufalas.github.io.jpg)
