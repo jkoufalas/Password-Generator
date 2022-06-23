@@ -1,4 +1,4 @@
-# Professional-Portfolio
+# Password-Generator
 
 ## Description
 
@@ -30,4 +30,4 @@ The link to the deployed website of the assignment is <br>
 
 This image provides a sample of the completed website.
 
-![This is a password generator where you can choose your own criteria to include in your password.](./assets/Images/jkoufalas.github.io.jpg)
+![This is a password generator where you can choose your own criteria to include in your password.](./Assets/Images/jkoufalas.github.io.jpg)
